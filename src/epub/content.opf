@@ -44,10 +44,10 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Utopia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-moore_utopia_cassell-and-company-limited</meta>
-		<dc:creator id="author">Thomas Moore</dc:creator>
-		<meta property="file-as" refines="#author">Moore, Thomas</meta>
+		<dc:creator id="author">Thomas More</dc:creator>
+		<meta property="file-as" refines="#author">More, Thomas</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_Moore</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_More</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79055409</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Cassell and Company, Limited</dc:contributor>
