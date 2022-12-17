@@ -101,6 +101,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -110,7 +111,6 @@
 		<itemref idref="chapter-7.xhtml"/>
 		<itemref idref="chapter-8.xhtml"/>
 		<itemref idref="chapter-9.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
