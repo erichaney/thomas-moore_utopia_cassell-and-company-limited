@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-moore/utopia/cassell-and-company-limited</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-moore/utopia/gilbert-burnet</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -31,12 +31,17 @@
 		<dc:title id="title">Utopia</dc:title>
 		<meta property="file-as" refines="#title">Utopia</meta>
 		<dc:subject id="subject-1">Utopias -- Early works to 1800</dc:subject>
+		<dc:subject id="subject-2"></dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113157</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A traveller brings back a report of the enlightened laws, astonishing customs, and political philosophy of a distant island society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p><i>Utopia</i> is a dialogue written in Latin by <a href="https://standardebooks.org/ebooks/thomas-more">Thomas More</a> that discusses the customs, laws, and social organization of the fictional island nation of Utopia. More, who appears as a character in the dialogue, remains mostly silent while a traveller recounts details about Utopian society and praises their way of life. Many aspects of Utopian life such as their lack of private property, extensive public welfare, religious toleration, and enslavement of criminals make a stark contrast to 16th century England. The extent to which <i>Utopia</i> is written as a political satire or an endorsement of these ideas is an enduring debate, and More's quiet ambivalence as a character prompts every reader to consider how much is in earnest and how much is suggested ironically. This ambiguity is reflected in the pun in the title: the Greek <i>eutopia</i>, "good place," is complicated by another interpretation <i>outopia</i>, "no place."</p>
+			<p>The work is divided into two books. In the first book, More is introduced to a traveller who has visited many nations and learned the customs of many people, including the Utopians. But instead of discussing these far-off places, the traveller dwells on the sorry state of affairs in England: chronic poverty that drives the poor to beg and steal, enclosure of common land by private investors, and pointless wars that waste human lives and the nation's wealth. In the second book, the traveller informs More of the geography, history, and society of Utopia. By its enlightened governance and the wisdom of its traditions, Utopia has not only avoided the misfortunes which plague England, but they also enjoy a healthy, prosperous, and easy way of life.</p>
+			<p>Just as this work draws direct inspiration from Plato's <i>Republic</i>, it has directly inspired many works in the genre of "utopian literature." Prominent examples include <i>New Atlantis</i> by Francis Bacon, <i>The City of the Sun</i> by Tommaso Campanella, and <i>Erewhon</i> by Samuel Butler. Literature featuring failed utopias has come to be known as "dystopian literature". Prominent examples in this genre include <i>Brave New World</i> by Alduous Huxley, <i>1984</i> by George Orwell, and parts of <i>Gulliver's Travels</i> by Jonathan Swift.</p>
+			<p>Beyond its literary influence, <i>Utopia</i> shaped the intellectual movements that followed centuries later. By looking back to classical models of government and philosophical thought, it was an early expression of the Renaissance hope that ancient thinkers might have solutions to contemporary problems. And by its illustration of a society governed rationally in accordance with nature, it anticipated the Enlightenment's optimism in the power of reason to perfect man and his institutions.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2130</dc:source>
@@ -45,7 +50,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Utopia</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-moore_utopia_cassell-and-company-limited</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-moore_utopia_gilbert-burnet</meta>
 		<dc:creator id="author">Thomas More</dc:creator>
 		<meta property="file-as" refines="#author">More, Thomas</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
