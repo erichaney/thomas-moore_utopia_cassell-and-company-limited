@@ -57,24 +57,29 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_More</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79055409</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Gilbert Burnet</dc:contributor>
-		<meta property="file-as" refines="#translator">Burnet, Gilbert</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Gilbert Burnet</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Gilbert_Burnet</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="translator-1">Gilbert Burnet</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Burnet, Gilbert</meta>
+		<meta property="se:name.person.full-name" refines="#translator-1">Gilbert Burnet</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Gilbert_Burnet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50032699.html</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<meta property="display-seq">1</meta>
+		<dc:contributor id="translator-2">Ralph Robinson</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Robinson, Ralph</meta>
+		<meta property="se:name.person.full-name" refines="#translator-2">Ralph Robinson</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Ralph_Robinson_(humanist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82116299.html</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
+		<meta property="display-seq">0</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Eric Haney</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Haney, Eric</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://ehaney.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
