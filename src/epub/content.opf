@@ -63,14 +63,14 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Gilbert_Burnet</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50032699.html</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
-		<meta property="display-seq">1</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
 		<dc:contributor id="translator-2">Ralph Robinson</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Robinson, Ralph</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">Ralph Robinson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Ralph_Robinson_(humanist)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82116299.html</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<meta property="display-seq">0</meta>
+		<meta property="display-seq" refines="#translator-2">0</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
