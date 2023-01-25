@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-moore/utopia/gilbert-burnet</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-more/utopia/gilbert-burnet</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -50,7 +50,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Utopia</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-moore_utopia_gilbert-burnet</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-more_utopia_gilbert-burnet</meta>
 		<dc:creator id="author">Thomas More</dc:creator>
 		<meta property="file-as" refines="#author">More, Thomas</meta>
 		<meta property="se:name.person.full-name" refines="#author">Sir Thomas More</meta>
@@ -61,14 +61,14 @@
 		<meta property="file-as" refines="#translator-1">Burnet, Gilbert</meta>
 		<meta property="se:name.person.full-name" refines="#translator-1">Gilbert Burnet</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Gilbert_Burnet</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50032699.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50032699</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<dc:contributor id="translator-2">Ralph Robinson</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Robinson, Ralph</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">Ralph Robinson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Ralph_Robinson_(humanist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82116299.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82116299</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="display-seq" refines="#translator-2">0</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
