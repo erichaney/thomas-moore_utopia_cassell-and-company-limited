@@ -31,9 +31,11 @@
 		<dc:title id="title">Utopia</dc:title>
 		<meta property="file-as" refines="#title">Utopia</meta>
 		<dc:subject id="subject-1">Utopias -- Early works to 1800</dc:subject>
-		<dc:subject id="subject-2"/>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113157</meta>
+		<dc:subject id="subject-2">Political satire, English</dc:subject>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85104433</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A traveller brings back a report of the enlightened laws, astonishing customs, and political philosophy of a distant island society.</dc:description>
