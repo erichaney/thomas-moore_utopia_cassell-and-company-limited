@@ -71,6 +71,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n82116299</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="display-seq" refines="#translator-2">0</meta>
+		<dc:contributor id="author-of-intro">Henry Morley</dc:contributor>
+		<meta property="role" refines="#author-of-intro" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
